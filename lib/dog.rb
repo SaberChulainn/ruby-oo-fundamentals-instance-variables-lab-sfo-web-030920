@@ -8,3 +8,8 @@ class Dog
   end
   
 end
+
+lassie = Dog.new 
+lasstie.name = "Lassie"
+
+puts lassie.name
